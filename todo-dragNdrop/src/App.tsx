@@ -1,11 +1,9 @@
 
-import './App.css'
+import './App.css';
+import Box from "./components/Box"
 
 function App() {
-
-  return (
-    <h1>hi</h1>
-  )
+  return <Box />;
 }
 
 export default App
